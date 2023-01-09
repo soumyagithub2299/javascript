@@ -26,7 +26,7 @@ for (let Student in Students) {
 
 
 
-// for (let index = 0; index < Students.length; index++) {
+//   for (let index = 0; index < Students.length; index++) {
 //     const element = Students[index];
 //     console.log(element.Name);
     
